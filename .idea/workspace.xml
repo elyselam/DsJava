@@ -10,7 +10,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2198c5dc-3642-40b5-818e-30ea7e2f1d63" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stacksAndQueues/stacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacksAndQueues/Stacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Node.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593911666851</updated>
       <workItem from="1593911669698" duration="40000" />
-      <workItem from="1593911712626" duration="9227000" />
+      <workItem from="1593911712626" duration="9920000" />
     </task>
     <task id="LOCAL-00001" summary="linkedlist">
       <created>1593918233343</created>
@@ -100,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593971645010</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add stack">
+      <created>1593973117589</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593973117589</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +127,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="linkedlist" />
     <MESSAGE value="add queue" />
-    <option name="LAST_COMMIT_MESSAGE" value="add queue" />
+    <MESSAGE value="add stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="add stack" />
   </component>
 </project>
