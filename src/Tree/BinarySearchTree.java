@@ -4,6 +4,15 @@ package Tree;
 //given tree has no dupes, so no equal
 //linear time
 //space: if balanced tree: O(log(n))
+
+
+
+/*
+Binary Tree: each node has 2 child nodes
+make finding a node very fast
+Balanced: insert() & search(): O(logn)
+Unbalanced Tree: insert() & search(): O(n) bc just a long line
+ */
 public class BinarySearchTree {
     public static void main(String[] args) {
 
@@ -12,6 +21,7 @@ public class BinarySearchTree {
         int data;
         Node left;
         Node right;
+
 
         boolean checkBST(Node root, int min, int max) {
             if (root == null) {

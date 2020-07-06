@@ -9,8 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2198c5dc-3642-40b5-818e-30ea7e2f1d63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tree/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/BinarySearchTree.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Node (1)">
+    <configuration name="Node (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.Node" />
+      <module name="DsJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.Node" />
       <module name="DsJava" />
@@ -65,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Node (1)" />
         <item itemvalue="Application.Node" />
       </list>
     </recent_temporary>
@@ -84,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593911666851</updated>
       <workItem from="1593911669698" duration="40000" />
-      <workItem from="1593911712626" duration="11863000" />
+      <workItem from="1593911712626" duration="16948000" />
     </task>
     <task id="LOCAL-00001" summary="linkedlist">
       <created>1593918233343</created>
@@ -114,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593973874678</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add tree">
+      <created>1593976018495</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593976018495</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +152,7 @@
     <MESSAGE value="add queue" />
     <MESSAGE value="add stack" />
     <MESSAGE value="update linkedlist" />
-    <option name="LAST_COMMIT_MESSAGE" value="update linkedlist" />
+    <MESSAGE value="add tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="add tree" />
   </component>
 </project>
