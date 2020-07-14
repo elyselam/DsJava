@@ -27,6 +27,14 @@ public class LinkedList<E> implements ListI<E> {
     working in middle
       */
 
+    public void addFirst(E obj) {
+        Node<E> node = new Node<E>(obj);
+        node.next = head; //scoot head one spot over
+        //so now head is the new node
+        head = node;
+        currentSize++;
+
+    }
 
 
 

@@ -8,10 +8,9 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2198c5dc-3642-40b5-818e-30ea7e2f1d63" name="Default Changelist" comment="add LinkedLists complexity">
-      <change afterPath="$PROJECT_DIR$/src/LinkedLists/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedLists/ListI.java" afterDir="false" />
+    <list default="true" id="2198c5dc-3642-40b5-818e-30ea7e2f1d63" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedLists/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedLists/LinkedList.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +94,7 @@
       <updated>1593911666851</updated>
       <workItem from="1593911669698" duration="40000" />
       <workItem from="1593911712626" duration="19445000" />
-      <workItem from="1594689229886" duration="2730000" />
+      <workItem from="1594689229886" duration="3822000" />
     </task>
     <task id="LOCAL-00001" summary="linkedlist">
       <created>1593918233343</created>
@@ -146,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594690142875</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add LinkedLists complexity">
+      <created>1594693278988</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1594693278988</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
