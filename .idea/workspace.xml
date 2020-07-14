@@ -8,10 +8,9 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2198c5dc-3642-40b5-818e-30ea7e2f1d63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exceptions/FileFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashTable/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashTable/ransomNote.java" afterDir="false" />
+    <list default="true" id="2198c5dc-3642-40b5-818e-30ea7e2f1d63" name="Default Changelist" comment="add LinkedLists complexity">
+      <change afterPath="$PROJECT_DIR$/src/LinkedLists/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedLists/ListI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -95,7 +95,7 @@
       <updated>1593911666851</updated>
       <workItem from="1593911669698" duration="40000" />
       <workItem from="1593911712626" duration="19445000" />
-      <workItem from="1594689229886" duration="595000" />
+      <workItem from="1594689229886" duration="2730000" />
     </task>
     <task id="LOCAL-00001" summary="linkedlist">
       <created>1593918233343</created>
@@ -139,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593994993266</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add exception package">
+      <created>1594690142875</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1594690142875</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +172,9 @@
     <MESSAGE value="update linkedlist" />
     <MESSAGE value="add tree" />
     <MESSAGE value="update tree traversal" />
-    <option name="LAST_COMMIT_MESSAGE" value="update tree traversal" />
+    <MESSAGE value="add exception package" />
+    <MESSAGE value="add LinkedLists complexity" />
+    <option name="LAST_COMMIT_MESSAGE" value="add LinkedLists complexity" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
